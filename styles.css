@@ -11,9 +11,11 @@ div {
 }
 
 p {
+  font-style: bolder;
   color: whitesmoke;
   margin: 1%;
-
   width: fit-content;
   display: inline-block;
+  justify-content: center;
+  text-align: justifyss;
 }
