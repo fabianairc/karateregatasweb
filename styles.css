@@ -1,0 +1,19 @@
+body {
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+  padding: auto;
+}
+div {
+  background-color: rgb(254, 58, 58);
+  position: static;
+  text-align: end;
+}
+
+p {
+  color: whitesmoke;
+  margin: 1%;
+
+  width: fit-content;
+  display: inline-block;
+}
