@@ -4,18 +4,22 @@ body {
   margin: auto;
   padding: auto;
 }
-div {
+div.top {
   background-color: rgb(254, 58, 58);
   position: static;
   text-align: end;
 }
 
-p {
+div.top p {
   font-style: bolder;
   color: whitesmoke;
   margin: 1%;
   width: fit-content;
   display: inline-block;
   justify-content: center;
-  text-align: justifyss;
+  justify-content: center;
+}
+section.History {
+  display: inline-block;
+  justify-content: right;
 }
